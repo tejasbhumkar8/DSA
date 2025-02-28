@@ -1,2 +1,2 @@
 # DSA
-Leet Code Questions
+Coding Questions
